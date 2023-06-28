@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69804576977",
+    "project_id": "opticalcharacterrecognitionapp",
+    "storage_bucket": "opticalcharacterrecognitionapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69804576977:android:d056d340198733103f35f0",
+        "android_client_info": {
+          "package_name": "com.example.opticalcharacterrecognitionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69804576977-s1ruvq808s1gq5h9cq3vo7kt70p01fhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcEv8l1svUOa9fq3jIYWZnu9ureolJNm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69804576977-s1ruvq808s1gq5h9cq3vo7kt70p01fhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
